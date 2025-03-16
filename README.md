@@ -70,5 +70,6 @@ http://localhost:8501/predict/
 Local URL: http://localhost:8501
 Network URL: http://192.168.1.2:8501 (Change this according to your network configuration)
 
+![Results Vs Image](Results_Vs_Image.png)
 
 
